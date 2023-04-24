@@ -1,0 +1,15 @@
+C:\Users\10\OneDrive\Documents\Visual Coding\Quiz backpack\Coding\bin\Debug\net6.0\Coding.exe
+C:\Users\10\OneDrive\Documents\Visual Coding\Quiz backpack\Coding\bin\Debug\net6.0\Coding.deps.json
+C:\Users\10\OneDrive\Documents\Visual Coding\Quiz backpack\Coding\bin\Debug\net6.0\Coding.runtimeconfig.json
+C:\Users\10\OneDrive\Documents\Visual Coding\Quiz backpack\Coding\bin\Debug\net6.0\Coding.dll
+C:\Users\10\OneDrive\Documents\Visual Coding\Quiz backpack\Coding\bin\Debug\net6.0\Coding.pdb
+C:\Users\10\OneDrive\Documents\Visual Coding\Quiz backpack\Coding\obj\Debug\net6.0\Coding.csproj.AssemblyReference.cache
+C:\Users\10\OneDrive\Documents\Visual Coding\Quiz backpack\Coding\obj\Debug\net6.0\Coding.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\10\OneDrive\Documents\Visual Coding\Quiz backpack\Coding\obj\Debug\net6.0\Coding.AssemblyInfoInputs.cache
+C:\Users\10\OneDrive\Documents\Visual Coding\Quiz backpack\Coding\obj\Debug\net6.0\Coding.AssemblyInfo.cs
+C:\Users\10\OneDrive\Documents\Visual Coding\Quiz backpack\Coding\obj\Debug\net6.0\Coding.csproj.CoreCompileInputs.cache
+C:\Users\10\OneDrive\Documents\Visual Coding\Quiz backpack\Coding\obj\Debug\net6.0\Coding.dll
+C:\Users\10\OneDrive\Documents\Visual Coding\Quiz backpack\Coding\obj\Debug\net6.0\refint\Coding.dll
+C:\Users\10\OneDrive\Documents\Visual Coding\Quiz backpack\Coding\obj\Debug\net6.0\Coding.pdb
+C:\Users\10\OneDrive\Documents\Visual Coding\Quiz backpack\Coding\obj\Debug\net6.0\Coding.genruntimeconfig.cache
+C:\Users\10\OneDrive\Documents\Visual Coding\Quiz backpack\Coding\obj\Debug\net6.0\ref\Coding.dll
